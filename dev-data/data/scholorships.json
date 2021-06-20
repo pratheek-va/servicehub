@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Post-matric scholorship 2021",
+    "amount": 10000,
+    "availability": "For PU students",
+    "image": "🛺🚙🚌",
+    "expiryDate": "25/09/2021",
+    "docsRequired": ["doc1", "doc2", "doc3", "doc4"],
+    "serviceCharge": 100,
+    "latest": true
+  },
+  {
+    "name": "Bal-vikas",
+    "amount": 10000,
+    "availability": "For SSLC students",
+    "image": "🛺🚙🚌",
+    "expiryDate": "25/09/2021",
+    "docsRequired": ["doc1", "doc2", "doc3", "doc4"],
+    "serviceCharge": 100,
+    "latest": true
+  },
+  {
+    "name": "Sujnananidhi",
+    "amount": 10000,
+    "availability": "For DEGREE students",
+    "image": "🛺🚙🚌",
+    "expiryDate": "25/09/2021",
+    "docsRequired": ["doc1", "doc2", "doc3", "doc4"],
+    "serviceCharge": 100,
+    "latest": false
+  },
+  {
+    "name": "Basava kalyan",
+    "amount": 10000,
+    "availability": "For ENGINEERING students",
+    "image": "🛺🚙🚌",
+    "expiryDate": "25/09/2021",
+    "docsRequired": ["doc1", "doc2", "doc3", "doc4"],
+    "serviceCharge": 100,
+    "latest": false
+  }
+]

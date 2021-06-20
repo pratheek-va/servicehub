@@ -1,0 +1,167 @@
+@media only screen and (max-width: 1200px) {
+  .hero-text-box {
+    width: 100%;
+    padding: 0 2%;
+  }
+  .row {
+    padding: 0 2%;
+  }
+  .left-arrow {
+    left: 7px;
+  }
+  .right-arrow {
+    right: 7px;
+  }
+  .logo {
+    left: 7%;
+  }
+  .left-arrow,
+  .right-arrow {
+    border-radius: 0%;
+    width: 30px;
+  }
+  .contact-form {
+    width: 60%;
+  }
+}
+@media only screen and (max-width: 1023px) {
+  body {
+    font-size: 18px;
+  }
+  section {
+    padding: 60px 0;
+  }
+  .logo {
+    left: 5%;
+  }
+  .contact-form {
+    width: 66%;
+  }
+  .left-arrow {
+    left: 0;
+  }
+  .right-arrow {
+    right: 0;
+  }
+  .logo {
+    left: 5%;
+  }
+  .left-arrow,
+  .right-arrow {
+    border-radius: 50%;
+    width: 55px;
+    height: 55px;
+    transition: none;
+    background-color: white;
+    font-weight: 400;
+    font-size: 90%;
+  }
+  .left-arrow:hover,
+  .left-arrow:active,
+  .right-arrow:active,
+  .right-arrow:hover {
+    background-color: white;
+    opacity: 1;
+  }
+}
+@media only screen and (max-width: 767px) {
+  body {
+    font-size: 16px;
+  }
+  section {
+    padding: 30px 0;
+  }
+  .row,
+  .hero-text-box {
+    padding: 0 4%;
+  }
+  .col {
+    width: 100%;
+    margin: 0 0 4% 0;
+  }
+  /* .main-nav {
+    display: none;
+  } */
+  .mobile-nav-icon {
+    display: inline-block;
+    margin-top: 15px;
+  }
+  .main-nav {
+    float: left;
+    margin-top: 15px;
+  }
+  .main-nav li {
+    display: block;
+    margin-left: 20px;
+  }
+  .main-nav li a:link,
+  .main-nav li a:visited {
+    display: block;
+    border: none;
+    padding: 10px 0;
+    font-size: 100%;
+  }
+  .logo {
+    height: 35px;
+    width: auto;
+  }
+  .feature-block img {
+    left: 0;
+  }
+  .contact-form {
+    width: 75%;
+  }
+  .social-links {
+    margin-top: -30px;
+  }
+  .left-arrow,
+  .right-arrow {
+    display: none;
+  }
+  .contacts {
+    width: 100%;
+    padding-top: 10%;
+  }
+  h1 {
+    font-size: 180%;
+  }
+  h2 {
+    font-size: 150%;
+  }
+  .sticky .main-nav {
+    margin-top: 2px;
+  }
+  .sticky .logo {
+    height: 35px;
+  }
+  .sticky .mobile-nav-icon ion-icon {
+    color: black;
+  }
+  .sticky .mobile-nav-icon {
+    margin-top: 6px;
+  }
+  .sticky .main-nav li a:link,
+  .sticky .main-nav li a:visited {
+    padding: 10px 0;
+  }
+  .footer-nav li,
+  .social-links li {
+    margin-right: 15px;
+  }
+  .footer {
+    padding: 20px;
+    font-size: 70%;
+  }
+}
+@media only screen and (max-width: 480px) {
+  section {
+    padding: 25px 0;
+  }
+  .contacts {
+    width: 100%;
+    padding-top: 10%;
+  }
+  .footer {
+    padding: 20px;
+  }
+}

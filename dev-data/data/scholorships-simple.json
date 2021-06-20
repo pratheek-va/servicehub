@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Post-matric scholorship 2021",
+    "amount": 10000,
+    "image": "🛺🚙🚌"
+  },
+  {
+    "id": 2,
+    "name": "Post-matric scholorship 2021",
+    "amount": 10000,
+    "image": "🛺🚙🚌"
+  },
+  {
+    "id": 3,
+    "name": "Post-matric scholorship 2021",
+    "amount": 10000,
+    "image": "🛺🚙🚌"
+  },
+  {
+    "id": 4,
+    "name": "Post-matric scholorship 2021",
+    "amount": 10000,
+    "image": "🛺🚙🚌"
+  },
+  { "id": 5 }
+]
